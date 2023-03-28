@@ -1,1 +1,17 @@
 Primeira aula!
+javascript => aula 1 {
+    1 - declaração de variavel = let, const {
+        let = valores que podem ser atribuidos e reatribuidos;
+        const =  constantes, nunca muda;
+    }    
+
+    desafio 
+    faça um programa para calcular valor gasto de combustivel em uma viagem.
+    
+    voce terá 3 variaveis {
+        1 preco do combustivel;
+        2 valor médio de gasto do carro;
+        3 distancia em KM da viagem;
+    }
+    imprimir no console o valor que será gasto de combustível para realizar a viagem.
+}
